@@ -1,4 +1,7 @@
-# 18F API Standards
+_This document is in draft.  Please share any ideas on how we can improve it by [filing an issue](https://github.com/agency-x/api-standards/issues).  You can also directly suggest edits with a pull requrest._  
+
+
+# Agency X API Standards
 
 **[18F](https://18f.gsa.gov/)** is a technology team inside the US federal government. 18F is very API-focused: our first project was an [API for business opportunities](https://fbopen.gsa.gov/).
 
